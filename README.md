@@ -13,7 +13,7 @@ A modern, responsive web application that allows users to quickly redirect to Wh
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://your-deployment-url.com)
+[View Live Demo](https://wp-chat-redirect.vercel.app/)
 
 ## 🛠️ Tech Stack
 
