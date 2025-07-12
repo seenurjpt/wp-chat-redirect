@@ -29,7 +29,7 @@ A modern, responsive web application that allows users to quickly redirect to Wh
 ![Desktop View](public/screenshots/desktop.png)
 
 ### Mobile View
-![Mobile View](screenshots/mobile.png)
+![Mobile View](public/screenshots/mobile.jpg)
 
 ## 🏃‍♂️ Quick Start
 
